@@ -152,7 +152,7 @@ background:#dc3545;
 	  </ul>
   </div>  </nav>
 <br>
-<div class="container-fluid a py-4">
+<div class="container-fluid a">
 <div class="row">
 <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
 <h2> Hoop Primary Year Program </h2> 
@@ -163,7 +163,7 @@ background:#dc3545;
 </div>
 </div>
 
-<div class="container-fluid a py-4" id="home">
+<div class="container-fluid a" id="home">
 <div class="row">
 <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
 			<h2> Program Overview </h2>
@@ -249,7 +249,7 @@ background:#dc3545;
 </section>
 
 <section>
-<div class="container-fluid a py-4" id="works">
+<div class="container-fluid a" id="works">
 <div class="row">
 <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
 	<h2 align="center">Our Montessori Home Kits</h2><br>
@@ -270,7 +270,7 @@ Isolating complex concepts is a common theme in Montessori, which helps children
 	</div>
 	</div>
 	<h2>Stamp Game</h2><br>
-	<div class="row py-4">
+	<div class="row">
 	<div class="col-sm-12 col-xl-6">
 	<img src="Stamp.jfif" class="Go"></div>
 	<div class="col-sm-12 col-xl-6">
@@ -285,7 +285,7 @@ This is why it is important to assess the child’s readiness prior to introduci
 	</div>
 	
 	<h2>Counting Rods</h2><br>
-	<div class="row py-4">
+	<div class="row">
 	<div class="col-sm-12 col-xl-6">
 	<h3>What is the Counting Rods? </h3>
 	<p>The method for using counting rods for mathematical calculation was called rod calculation or rod calculus. 
@@ -295,7 +295,7 @@ This is why it is important to assess the child’s readiness prior to introduci
 			<div class="col-sm-12 col-xl-6">
 			<img src="Counting.jfif" class="St"></div></div><br>
 	<h2>Golden Bead Set</h2>
-		<div class="row py-4">
+		<div class="row">
 	<div class="col-sm-12 col-xl-6">
 	<h3>What is the Golden Bead Set? </h3>
 	<p>The Golden Beads are a key material for teaching the decimal system. It is through the Golden Beads that Montessori children come to understand place value and what it means for a number to consist of units, tens, hundreds, and thousands. Once the children have a solid understanding of quantity and are able to name and form quantities using the beads, they will learn to associate those quantities with their numerical symbols (e.g. 3235). 
@@ -310,7 +310,7 @@ This is why it is important to assess the child’s readiness prior to introduci
 	</div>
 </section>
 <br>
-<div class="container-fluid a py-4">
+<div class="container-fluid a">
 <div class="row">
 <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
 <h2 align="center"> What our parents say about us</h2>
@@ -365,7 +365,7 @@ This is why it is important to assess the child’s readiness prior to introduci
 <h2 align="center"> A peep inside the classroom</h2>
 <p>What I see are indulged kids, interactive classrooms, expressive voices and a willingness to go to school every day - Bhargav, father of Rehan. </p>
 
-<div id="demo py-4" class="carousel slide" data-ride="carousel">
+<div id="demo" class="carousel slide" data-ride="carousel">
 
   <!-- Indicators -->
   <ul class="carousel-indicators">
@@ -443,7 +443,7 @@ This is why it is important to assess the child’s readiness prior to introduci
 <h2 align="center"> Meet out Directress </h2><br>
 <p> Our teachers are called "Directress" - Your child's guide for the most important development phase in their lives. </p><br>
 <video src="p1.MP4" type="video/MP4" width="100%" height="400px" > </video><br><br>
-<div class="container pht py-4" id="About">
+<div class="container pht" id="About">
 <div class="row">
 <div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 ">
 <img src="Anirudh.png" class="d-block mx-auto"><br>
@@ -473,7 +473,7 @@ This is why it is important to assess the child’s readiness prior to introduci
 <br>
 
 <section >
-<div class="container-fluid a py-4" id="contact">
+<div class="container-fluid a" id="contact">
 <div class="row">
 <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
 <h2 align="center"> School fees and Schedule</h2>
@@ -486,11 +486,11 @@ This is why it is important to assess the child’s readiness prior to introduci
 </section>
 
 <section class="fm">
-<div class="container-fluid a py-4">
+<div class="container-fluid a">
 <h2 align="center"> Admission Form </h2>
 <p> Fill your details to apply. You can also schedule a meeting with a Directress to discuss more about the School.</p>
 
-<div class="tbl py-4">
+<div class="tbl">
 <div class="table-responsive">
 <table align="center">
 <tr><td>
@@ -697,7 +697,7 @@ This is why it is important to assess the child’s readiness prior to introduci
 </section>
 
 <footer>
-<div class="container-fluid a py-4">
+<div class="container-fluid a">
 <div class="row">
 <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
 <h2 align="center"> FAQ </h2>
@@ -730,7 +730,7 @@ This is why it is important to assess the child’s readiness prior to introduci
 </footer>
 
 
-<div class="footer py-4">
+<div class="footer">
 <div class="container">
 					<div class="row">
 						<div class="col-md-12 col-sm-12">
